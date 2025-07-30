@@ -1,5 +1,20 @@
-## Hi there 👋
+# 🕸️ Hey there, I'm Vanesha! (a.k.a Spidey-Dev)
 
+🕷️ Swinging through code with great power and even greater responsibility.
+
+---
+## 🦸 About Me:
+```txt
+🕷️ 23 years old | Web Dev Enthusiast | Tech Explorer
+🧠 Learning: JavaScript, React, and FastAPI
+🎮 Interests: Games, Comics, and Memes
+🛠️ Motto: "With great power comes great responsibility!"
+```
+
+## 🧰 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+## 🔗 Connect With Me:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vanesha-cutinho/)
 <!--
 **VaneshaCutinho5/vaneshacutinho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
