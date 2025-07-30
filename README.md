@@ -1,8 +1,8 @@
-# 🕸️ Hey there, I'm Vanesha! (a.k.a Spidey-Dev)
+# 🕸️ Hey there, I'm Vanesha! ✨ 
 
 🕷️ Swinging through code with great power and even greater responsibility.
-
-## 🦸 About Me:
+                                                                          
+## 🦸 About Me: 
 ```txt
 🕷️ 23 years old | Web Dev Enthusiast | Tech Explorer
 🧠 Learning: JavaScript, React, and FastAPI
@@ -10,11 +10,12 @@
 🛠️ Motto: "With great power comes great responsibility!"
 ```
 
-## 🧰 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+---
+## 🧰 Tech Stack:   
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,java,eclipse,hibernate,spring,mysql,django,py,git,ubuntu,linux,postman,docker&perline=5&theme=light)](https://skillicons.dev)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneshacutinho5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneshacutinho5&layout=compact) ![Coding Profile](./assets/profile.gif)
 
 ## 🔗 Connect With Me:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vanesha-cutinho/)
 <!--
