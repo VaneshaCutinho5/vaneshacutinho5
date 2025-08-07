@@ -5,8 +5,8 @@
 ## 🦸 About Me: 
 ```txt
 🕷️ 23 years old | Web Dev Enthusiast | Tech Explorer
-🧠 Learning: JavaScript, React, and FastAPI
-🎮 Interests: Games, Comics, and Anime
+🧠 Learning: JavaScript, React, and Express.js
+🎮 Interests: Digital Art, Comics, and Anime
 🛠️ Motto: "With great power comes great responsibility!"
 ```
 
